@@ -1,4 +1,4 @@
-# imageeditor
+# Image Editor
 
 A new Flutter project.
 
